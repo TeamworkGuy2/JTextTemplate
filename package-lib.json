@@ -1,0 +1,11 @@
+{
+	"version" : "0.1.0",
+	"name" : "jtext-template",
+	"description" : "Create and compile templates containing string literals and variables",
+	"homepage" : "https://github.com/TeamworkGuy2/JTextTemplate",
+	"license" : "MIT",
+	"main" : "./jar/jtext-template.jar",
+	"dependencies" : {
+		"jsimple-types" : "*"
+	}
+}
