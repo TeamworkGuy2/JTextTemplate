@@ -8,7 +8,7 @@ import java.util.List;
 import java.util.Map;
 import java.util.function.Function;
 
-import twg2.primitiveIoTypes.JPrimitiveType;
+import twg2.simpleTypes.ioPrimitives.JPrimitiveType;
 
 public class StringTemplateBuilder implements StringTemplate, SingleIntTemplate, SingleVarTemplate<Object> {
 	private List<Object> templateParts = new ArrayList<>();

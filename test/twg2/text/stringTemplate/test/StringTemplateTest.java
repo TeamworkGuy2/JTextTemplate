@@ -17,6 +17,7 @@ import checks.CheckTask;
  */
 public class StringTemplateTest {
 
+
 	private static class StrTmplData {
 		private StringTemplateBuilder strTmplBldr;
 		private List<List<Object>> testArgs;
@@ -29,6 +30,8 @@ public class StringTemplateTest {
 		}
 
 	}
+
+
 
 
 	@Test
